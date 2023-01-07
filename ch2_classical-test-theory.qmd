@@ -1,0 +1,27 @@
+---
+title: "Chapter 2 - Classical Test Theory (CTT)"
+format: html
+editor: visual
+---
+
+## 2.0 Load packages
+
+```{r, eval=F}
+library(boot)
+```
+
+## 2.1 Overview
+
+## 2.2 What is measurement?
+
+### Definitions
+
+Measurement
+
+> "Measurement is the quantification of a construct by assigning numerical values or qualitative labels based on a set of rules, principles, or operations." (p. 31)
+
+Constructs
+
+> "A construct, trait, or domain is a theoretical entity or concept, such as reading ability, intelligence, or executive functioning." (p.32)
+
+In psychology, we cannot usually measure constructs directly as they are **latent** (unobserved) so instead must measure their manifestations. We do this by developing 'items' in measurement instruments.
